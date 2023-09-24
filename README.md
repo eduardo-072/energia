@@ -1,2 +1,2 @@
 # energia
-custo de uma conta de luz
+custo de energia de um aparelho
